@@ -88,6 +88,17 @@
       "gender": "Male",
       "dateOfBirth": "2025-03-12",
       "id": 9
+    },
+     {
+      "userName": "venki",
+      "firstName": "venkatesh",
+      "lastName": "r",
+      "email": "venkatesh@gmail.com",
+      "password": "1234567",
+      "phoneNumber": "9110353818",
+      "gender": "Male",
+      "dateOfBirth": "2005-03-28",
+      "id": 10
     }
   ]
 }
