@@ -72,11 +72,22 @@
       "firstName": "Durga Prasad Reddy",
       "lastName": "KUSAM",
       "email": "df@gmail.com",
-      "password": "1234",
+      "password": "12345",
       "phoneNumber": "09676855497",
       "gender": "Male",
       "dateOfBirth": "2025-03-12",
       "id": 8
+    }
+    {
+      "userName": "Srinu",
+      "firstName": "Srinivas",
+      "lastName": "N",
+      "email": "Srinivas@gmail.com",
+      "password": "12345678",
+      "phoneNumber": "9988894999",
+      "gender": "Male",
+      "dateOfBirth": "2025-03-12",
+      "id": 9
     }
   ]
 }
