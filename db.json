@@ -78,7 +78,7 @@
       "dateOfBirth": "2025-03-12",
       "id": 8
     },
-    {
+     {
       "userName": "Srinu",
       "firstName": "Srinivas",
       "lastName": "N",
@@ -100,6 +100,18 @@
       "gender": "Other",
       "dateOfBirth": "1990-01-01",
       "role": "admin",
+
+    },
+     {
+      "userName": "venki",
+      "firstName": "venkatesh",
+      "lastName": "r",
+      "email": "venkatesh@gmail.com",
+      "password": "1234567",
+      "phoneNumber": "9110353818",
+      "gender": "Male",
+      "dateOfBirth": "2005-03-28",
+
       "id": 10
     }
   ]
