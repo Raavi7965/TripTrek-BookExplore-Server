@@ -103,8 +103,8 @@
 
     },
     {
-      "userName": "venkateshadmin",
-      "firstName": "Venkatesh",
+      "userName": "durgaadmin",
+      "firstName": "durga",
       "lastName": "Admin",
       "email": "durga@admin",
       "password": "durga@2976",
@@ -112,6 +112,18 @@
       "gender": "Other",
       "dateOfBirth": "1990-01-01",
       "role": "admin"
+    },
+    {
+      "userName": "Srinivasadmin",
+      "firstName": "Srinivas",
+      "lastName": "Admin",
+      "email": "Srinivas@admin",
+      "password": "12345678",
+      "phoneNumber": "0000000000",
+      "gender": "Other",
+      "dateOfBirth": "1990-01-01",
+      "role": "admin"
+    },
 
      {
       "userName": "venki",
